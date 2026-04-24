@@ -12,3 +12,7 @@
 
 #### Command 2
 ``` uvicorn src.api.app:app --reload ```
+
+#### Localhost backend url 
+ 
+``` http://localhost:8000/predict ```
