@@ -11,6 +11,4 @@
 ``` fastapi run dev ```
 
 #### Command 2
-``` uvicorn src.api.main:app --reload ```
-
-### Command 
+``` uvicorn src.api.app:app --reload ```
